@@ -326,7 +326,7 @@ footer {
     display: flex;
 }
 
-footer > article > img {
+footer > article > a > img {
     width: 50px;
     
 }
