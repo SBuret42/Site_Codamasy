@@ -191,7 +191,7 @@ body > img {
 }
 
 .proposDeMoi > img {
-    width: 30%;
+    width: 270px;
 }
 
 .proposDeMoi > article {
@@ -233,7 +233,6 @@ section > div > article > p {
 section > div > article {
     padding: 2.5%;
     background-color: white;
-    flex-grow: 1;
 }
 
 .divSecAudits > img {
@@ -284,8 +283,6 @@ div > div > a {
     display: flex;
     flex-direction: column;
     background-color: #317361;
-    padding-bottom: 50px;
-    margin-bottom: -20px;
 }
 
 .contact > h1{
